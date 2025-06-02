@@ -37,7 +37,7 @@ Sou o Guilherme Gomes, desenvolvedor full stack formado pelo curso técnico de D
 <div> 
   <a href="mailto:guilherme.gomes51410@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5531996027277" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/guilherme-gomes-512989281/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-gomes-512989281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/guilhermegomesss" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
