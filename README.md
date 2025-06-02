@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Guilherme+Augusto!;Desenvolvedor+Full+Stack+em+formação!;Estudante+de+Ci%C3%AAncia+de+Dados" alt="Typing SVG" />
-</h1>
+<h1 align="center">Oi, eu sou o Guilherme Gomes 👋</h1>
 
 ## 👨‍💻 Sobre mim
 
-Sou o Guilherme Augusto, desenvolvedor full stack formado pelo curso técnico de Desenvolvimento de Sistemas pela Proz Educação. Atualmente estou focado em me tornar um Cientista de Dados, aprendendo Python, SQL, Machine Learning e ferramentas como Pandas e NumPy.
+Sou o Guilherme Gomes, desenvolvedor full stack formado pelo curso técnico de Desenvolvimento de Sistemas pela Proz Educação. Atualmente estou focado em me tornar um Cientista de Dados, aprendendo Python, SQL, Machine Learning e ferramentas como Pandas e NumPy.
 
 ---
 
@@ -35,7 +33,7 @@ Sou o Guilherme Augusto, desenvolvedor full stack formado pelo curso técnico de
 <div> 
   <a href="mailto:guilherme.gomes51410@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5531996027277" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/guilhermegomesss" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
@@ -46,5 +44,3 @@ Sou o Guilherme Augusto, desenvolvedor full stack formado pelo curso técnico de
 Estou me preparando para conquistar minha primeira vaga como *Cientista de Dados Júnior*, e também aplico meus conhecimentos como desenvolvedor web. Busco crescer profissionalmente contribuindo para projetos reais e impactantes.
 
 ---
-
-> 🧠 “Você nunca será extraordinário fazendo coisas comuns.” – O Poder da Ação
