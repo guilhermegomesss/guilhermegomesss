@@ -1,4 +1,7 @@
-<h1 align="center">Oi, eu sou o Guilherme Gomes 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+o+Guilherme+Gomes+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
 
 ## 👨‍💻 Sobre mim
 
