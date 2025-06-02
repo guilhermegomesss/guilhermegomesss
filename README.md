@@ -51,6 +51,3 @@ Estou me preparando para conquistar minha primeira vaga como *Cientista de Dados
 ![GitHub Snake dark](https://raw.githubusercontent.com/guilhermegomesss/guilhermegomesss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake light](https://raw.githubusercontent.com/guilhermegomesss/guilhermegomesss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <p>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=shahradelahi">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shahradelahi?style=flat&label=Stars&color=%23e3b341">
-</p>
