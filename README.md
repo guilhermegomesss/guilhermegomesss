@@ -46,9 +46,6 @@ Estou me preparando para conquistar minha primeira vaga como *Cientista de Dados
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guilhermegomesss/guilhermegomesss/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/guilhermegomesss/guilhermegomesss/blob/output/github-contribution-grid-snake.svg">
-    <img alt="snake gif" src="https://github.com/guilhermegomesss/guilhermegomesss/blob/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
-  </picture>
+  <img alt="snake gif" src="https://github.com/guilhermegomesss/guilhermegomesss/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%" />
 </p>
+
