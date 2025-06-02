@@ -45,9 +45,6 @@ Estou me preparando para conquistar minha primeira vaga como *Cientista de Dados
 
 ---
 
-
-## 🐍 Snake com minhas contribuições GitHub
-
 ![GitHub Snake dark](https://raw.githubusercontent.com/guilhermegomesss/guilhermegomesss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake light](https://raw.githubusercontent.com/guilhermegomesss/guilhermegomesss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <p>
